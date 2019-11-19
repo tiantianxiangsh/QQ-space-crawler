@@ -1,6 +1,6 @@
 <html><head><title>...</title><body>
 <h1>
-Welcome to World Wide Spam, Inc.
+qqqqqqqqqqqqqqqqqqqWelcome to World Wide Spam, Incqqqqqqqqqqqqqqqqq.
 </h1>
 <p>
 These are the corporate web pages of <em>World Wide Spam</em>, Inc. We hope you find your stay enjoyable, and that you will sample many of our products.
